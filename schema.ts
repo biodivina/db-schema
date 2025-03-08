@@ -156,7 +156,7 @@ export const Media = pgTable('media', {
 export const Countries = pgTable('countries', {
   id: bigint('id', { mode: 'bigint' }).primaryKey(),
   name: varchar('name', { length: 50 }).notNull(),
-  code: varchar('code', { length: 2 }).notNull(), // ISO 3166-1 alpha-2
+  code: varchar('code', { length: 4 }).notNull(), // ISO 3166-1 alpha-2
   deprecatedAt: timestamp('deprecated_at', { withTimezone: true }),
 });
 
@@ -207,8 +207,8 @@ export const References = pgTable('references', {
 // Institutions
 export const Institutions = pgTable('institutions', {
   id: bigint('id', { mode: 'bigint' }).primaryKey(),
-  institutionCode: varchar('institution_code', { length: 10 }).notNull().unique(),
-  institutionName: varchar('institution_name', { length: 100 }).notNull(),
+  code: varchar('code', { length: 50 }).notNull().unique(),
+  name: varchar('name', { length: 255 }).notNull(),
   city: varchar('city', { length: 50 }).notNull(),
   synonym: varchar('synonym'),
   countryId: bigint('country_id', { mode: 'bigint' }).notNull().references(() => Countries.id),

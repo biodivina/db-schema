@@ -1,0 +1,251 @@
+id,name,code
+40297472,Afghanistan,AF
+40297473,Aland Islands,AX
+40297474,Albania,AL
+40297475,Algeria,DZ
+40297476,American Samoa,AS
+40297477,Andorra,AD
+40297478,Angola,AO
+40297479,Anguilla,AI
+40297480,Antarctica,AQ
+40297481,Antigua and Barbuda,AG
+40297482,Argentina,AR
+44491776,Armenia,AM
+44491777,Aruba,AW
+44491778,Australia,AU
+44491779,Austria,AT
+44491780,Azerbaijan,AZ
+44491781,Bahrain,BH
+44491782,Bangladesh,BD
+44491783,Barbados,BB
+44491784,Belarus,BY
+44491785,Belgium,BE
+44491786,Belize,BZ
+44491787,Benin,BJ
+44491788,Bermuda,BM
+44491789,Bhutan,BT
+44491790,Bolivia,BO
+44491791,"Bonaire, Sint Eustatius and Saba",BQ
+44491792,Bosnia and Herzegovina,BA
+44491793,Botswana,BW
+48686080,Bouvet Island,BV
+48686081,Brazil,BR
+48686082,British Indian Ocean Territory,IO
+48686083,Brunei,BN
+48686084,Bulgaria,BG
+48686085,Burkina Faso,BF
+48686086,Burundi,BI
+48686087,Cambodia,KH
+48686088,Cameroon,CM
+48686089,Canada,CA
+48686090,Cape Verde,CV
+48686091,Cayman Islands,KY
+48686092,Central African Republic,CF
+48686093,Chad,TD
+48686094,Chile,CL
+48686095,China,CN
+48686096,Christmas Island,CX
+48686097,Cocos (Keeling) Islands,CC
+48686098,Colombia,CO
+48686099,Comoros,KM
+48686100,Congo,CG
+48686101,Cook Islands,CK
+48686102,Costa Rica,CR
+48686103,Cote D'Ivoire (Ivory Coast),CI
+48686104,Croatia,HR
+52880384,Cuba,CU
+52880385,Curaçao,CW
+52880386,Cyprus,CY
+52880387,Czech Republic,CZ
+52880388,Democratic Republic of the Congo,CD
+52880389,Denmark,DK
+52880390,Djibouti,DJ
+52880391,Dominica,DM
+52880392,Dominican Republic,DO
+52880393,Ecuador,EC
+52880394,Egypt,EG
+52880395,El Salvador,SV
+52880396,Equatorial Guinea,GQ
+52880397,Eritrea,ER
+52880398,Estonia,EE
+52880399,Eswatini,SZ
+52880400,Ethiopia,ET
+52880401,Falkland Islands,FK
+52880402,Faroe Islands,FO
+52880403,Fiji Islands,FJ
+52880404,Finland,FI
+52880405,France,FR
+52880406,French Guiana,GF
+52880407,French Polynesia,PF
+52880408,French Southern Territories,TF
+52880409,Gabon,GA
+52880410,Georgia,GE
+52880411,Germany,DE
+52880412,Ghana,GH
+52880413,Gibraltar,GI
+52880414,Greece,GR
+52880415,Greenland,GL
+52880416,Grenada,GD
+52880417,Guadeloupe,GP
+52880418,Guam,GU
+52880419,Guatemala,GT
+52880420,Guernsey and Alderney,GG
+52880421,Guinea,GN
+52880422,Guinea-Bissau,GW
+52880423,Guyana,GY
+52880424,Haiti,HT
+52880425,Heard Island and McDonald Islands,HM
+52880426,Honduras,HN
+52880427,Hong Kong S.A.R.,HK
+52880428,Hungary,HU
+52880429,Iceland,IS
+52880430,India,IN
+52880431,Indonesia,ID
+52880432,Iran,IR
+52880433,Iraq,IQ
+52880434,Ireland,IE
+52880435,Israel,IL
+52880436,Italy,IT
+52880437,Jamaica,JM
+52880438,Japan,JP
+52880439,Jersey,JE
+52880440,Jordan,JO
+52880441,Kazakhstan,KZ
+52880442,Kenya,KE
+52880443,Kiribati,KI
+52880444,Kosovo,XK
+52880445,Kuwait,KW
+52880446,Kyrgyzstan,KG
+52880447,Laos,LA
+52880448,Latvia,LV
+52880449,Lebanon,LB
+52880450,Lesotho,LS
+52880451,Liberia,LR
+52880452,Libya,LY
+52880453,Liechtenstein,LI
+52880454,Lithuania,LT
+52880455,Luxembourg,LU
+52880456,Macau S.A.R.,MO
+52880457,Madagascar,MG
+52880458,Malawi,MW
+52880459,Malaysia,MY
+52880460,Maldives,MV
+52880461,Mali,ML
+52880462,Malta,MT
+52880463,Man (Isle of),IM
+52880464,Marshall Islands,MH
+52880465,Martinique,MQ
+52880466,Mauritania,MR
+52880467,Mauritius,MU
+52880468,Mayotte,YT
+52880469,Mexico,MX
+52880470,Micronesia,FM
+52880471,Moldova,MD
+52880472,Monaco,MC
+52880473,Mongolia,MN
+52880474,Montenegro,ME
+52880475,Montserrat,MS
+52880476,Morocco,MA
+52880477,Mozambique,MZ
+52880478,Myanmar,MM
+52880479,Namibia,NA
+52880480,Nauru,NR
+52880481,Nepal,NP
+52880482,Netherlands,NL
+52880483,New Caledonia,NC
+52880484,New Zealand,NZ
+52880485,Nicaragua,NI
+52880486,Niger,NE
+52880487,Nigeria,NG
+52880488,Niue,NU
+52880489,Norfolk Island,NF
+52880490,North Korea,KP
+52880491,North Macedonia,MK
+52880492,Northern Mariana Islands,MP
+52880493,Norway,NO
+52880494,Oman,OM
+52880495,Pakistan,PK
+52880496,Palau,PW
+52880497,Palestinian Territory Occupied,PS
+52880498,Panama,PA
+52880499,Papua New Guinea,PG
+52880500,Paraguay,PY
+52880501,Peru,PE
+52880502,Philippines,PH
+52880503,Pitcairn Island,PN
+52880504,Poland,PL
+52880505,Portugal,PT
+52880506,Puerto Rico,PR
+52880507,Qatar,QA
+52880508,Reunion,RE
+52880509,Romania,RO
+52880510,Russia,RU
+52880511,Rwanda,RW
+52880512,Saint Helena,SH
+52880513,Saint Kitts and Nevis,KN
+52880514,Saint Lucia,LC
+52880515,Saint Pierre and Miquelon,PM
+52880516,Saint Vincent and the Grenadines,VC
+52880517,Saint-Barthelemy,BL
+52880518,Saint-Martin (French part),MF
+52880519,Samoa,WS
+52880520,San Marino,SM
+52880521,Sao Tome and Principe,ST
+52880522,Saudi Arabia,SA
+52880523,Senegal,SN
+52880524,Serbia,RS
+52880525,Seychelles,SC
+52880526,Sierra Leone,SL
+52880527,Singapore,SG
+52880528,Sint Maarten (Dutch part),SX
+52880529,Slovakia,SK
+52880530,Slovenia,SI
+52880531,Solomon Islands,SB
+52880532,Somalia,SO
+52880533,South Africa,ZA
+52880534,South Georgia,GS
+52880535,South Korea,KR
+52880536,South Sudan,SS
+52880537,Spain,ES
+52880538,Sri Lanka,LK
+52880539,Sudan,SD
+52880540,Suriname,SR
+52880541,Svalbard and Jan Mayen Islands,SJ
+52880542,Sweden,SE
+52880543,Switzerland,CH
+52880544,Syria,SY
+52880545,Taiwan,TW
+52880546,Tajikistan,TJ
+52880547,Tanzania,TZ
+52880548,Thailand,TH
+52880549,The Bahamas,BS
+52880550,The Gambia ,GM
+52880551,Timor-Leste,TL
+52880552,Togo,TG
+52880553,Tokelau,TK
+52880554,Tonga,TO
+52880555,Trinidad and Tobago,TT
+52880556,Tunisia,TN
+52880557,Turkey,TR
+52880558,Turkmenistan,TM
+52880559,Turks and Caicos Islands,TC
+52880560,Tuvalu,TV
+52880561,Uganda,UG
+52880562,Ukraine,UA
+52880563,United Arab Emirates,AE
+52880564,United Kingdom,GB
+52880565,United States,US
+52880566,United States Minor Outlying Islands,UM
+52880567,Uruguay,UY
+52880568,Uzbekistan,UZ
+52880569,Vanuatu,VU
+52880570,Vatican City State (Holy See),VA
+52880571,Venezuela,VE
+52880572,Vietnam,VN
+52880573,Virgin Islands (British),VG
+52880574,Virgin Islands (US),VI
+52880575,Wallis and Futuna Islands,WF
+52880576,Western Sahara,EH
+52880577,Yemen,YE
+52880578,Zambia,ZM
+57074688,Zimbabwe,ZW

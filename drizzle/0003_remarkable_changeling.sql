@@ -1,0 +1,1 @@
+ALTER TABLE "institutions" ALTER COLUMN "code" SET DATA TYPE varchar(50);

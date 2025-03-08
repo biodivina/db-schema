@@ -2,6 +2,10 @@
   "name": "db-schema",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "migration": "drizzle-kit",
+    "seed": "bun run seeder.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "@types/pg": "^8.11.11",
@@ -11,7 +15,9 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "csv-parser": "^3.2.0",
     "drizzle-orm": "^0.40.0",
+    "nodejs-snowflake": "^2.0.1",
     "pg": "^8.13.3"
   }
 }

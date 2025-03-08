@@ -1,15 +1,18 @@
-# db-schema
+# Biodivina Database Schema
 
-To install dependencies:
-
-```bash
+## Setup
+```sh
+cp .env.example .env
 bun install
 ```
 
-To run:
-
-```bash
-bun run index.ts
+## Migration
+Reference: [drizzle-kit](https://orm.drizzle.team/docs/migrations)
+```sh
+bun migration
 ```
 
-This project was created using `bun init` in bun v1.2.2. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+## Seed
+```sh
+bun run seed
+```

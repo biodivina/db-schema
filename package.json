@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "migration": "drizzle-kit",
-    "seed": "bun run seeder.ts"
+    "start": "bun index.ts"
   },
   "devDependencies": {
     "@types/bun": "latest",

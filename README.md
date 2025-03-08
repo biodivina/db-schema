@@ -6,13 +6,13 @@ cp .env.example .env
 bun install
 ```
 
-## Migration
+## Migration Commands
 Reference: [drizzle-kit](https://orm.drizzle.team/docs/migrations)
 ```sh
 bun migration
 ```
 
-## Seed
+## Run migration and seed
 ```sh
-bun run seed
+bun start
 ```

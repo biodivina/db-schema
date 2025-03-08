@@ -1,5 +1,7 @@
 # Biodivina Database Schema
 
+> Work in Progress
+
 ## Setup
 ```sh
 cp .env.example .env

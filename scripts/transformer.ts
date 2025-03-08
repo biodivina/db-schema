@@ -1,3 +1,5 @@
+// utility function to transform csv
+
 import csv from "csv-parser";
 import { createReadStream, createWriteStream } from "node:fs";
 import { Snowflake } from "nodejs-snowflake";
